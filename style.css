@@ -22,7 +22,7 @@ body{
     width: 50px;
     background-color: #ffffff;
     border-radius: 50%;
-    animation: preloader .5s ease infinite;
+    animation: preloader .3s ease infinite;
 }
 @keyframes preloader{
     0%{
