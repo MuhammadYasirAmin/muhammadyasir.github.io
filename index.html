@@ -624,26 +624,26 @@
 						please fill out the form below and I will reply you shortly.
 					</p>
 					<div class="form-box">
-						<form action="">
+						<form action="./contact.php" method="POST">
 							<div class="row">
 								<div class="col-6">
 									<span class="fa fa-user icon"></span>
-									<input type="text" placeholder="Your Name" class="form-control">
+									<input type="text" name="name" placeholder="Your Name" class="form-control">
 								</div>
 								<div class="col-6">
 									<span class="fa fa-envelope icon"></span>
-									<input type="text" placeholder="Your Email" class="form-control">
+									<input type="text" name="mail" placeholder="Your Email" class="form-control">
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-12">
 									<span class="fa fa-comments icon"></span>
-									<textarea placeholder="Your Message" class="form-control"></textarea>
+									<textarea name="message" placeholder="Your Message" class="form-control"></textarea>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-12">
-									<button type="submit" class="btn-bg">
+									<button name="submit" type="submit" class="btn-bg">
 										<span class="fa fa-send"></span>Send Message
 									</button>
 								</div>
