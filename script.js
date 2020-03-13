@@ -87,7 +87,7 @@ for(let i=0; i<portfolioItems.length; i++){
         }
         if (format=="slider-format") {
             sliderFormat();
-            formatType.innerHTML="Slider Format";
+            formatType.innerHTML="Portfolio Detail";
         }
     })
 }
