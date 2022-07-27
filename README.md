@@ -1,4 +1,4 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://muhammadyasiramin.github.io)
+
 <h1 align="center">Hi 👋, I'm Muhammad Yasir Amin</h1>
 <h3 align="center">A Passionate Full Stack Developer from Karachi,Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://files.virgool.io/upload/users/594007/posts/nzkk3fzuyeas/h2q4mgtfaeco.gif" />
